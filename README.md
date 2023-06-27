@@ -1,1 +1,2 @@
 # currency_convert
+The Currency Converter project aims to develop a user-friendly application that allows users to convert currencies in real-time, providing accurate exchange rates and supporting a wide range of international currencies. The application will have an intuitive interface, perform conversions accurately, and may include additional features such as historical data and customization options.
